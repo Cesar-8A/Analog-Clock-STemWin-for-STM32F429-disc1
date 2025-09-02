@@ -4,11 +4,11 @@ The project is based on the STemWin (segger) library.
 
 This is how it looks
 <p align="center">
-  <img src="./assets/clock proof.jpg" alt="Project proof" width="100%"/>
+  <img src="./clock proof.jpg" alt="Project proof" width="100%"/>
 </p>
 
 This is the clock working
 <p align="center">
-  <img src="./assets/gif proof.gif" alt="Demo animation" width="600"/>
+  <img src="./gif proof.gif" alt="Demo animation" width="600"/>
 </p>
 
