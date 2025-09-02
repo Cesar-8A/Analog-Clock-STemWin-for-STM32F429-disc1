@@ -4,7 +4,7 @@ The project is based on the STemWin (segger) library.
 
 This is how it looks
 <p align="center">
-  <img src="./clock proof.jpg" alt="Project proof" width="100%"/>
+  <img src="./clock proof.jpg" alt="Project proof" width="20%"/>
 </p>
 
 This is the clock working
