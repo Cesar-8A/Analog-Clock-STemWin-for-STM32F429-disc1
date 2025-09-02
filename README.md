@@ -9,6 +9,6 @@ This is how it looks
 
 This is the clock working
 <p align="center">
-  <img src="./gif proof.gif" alt="Demo animation" width="600"/>
+  <img src="./gif proof.gif" alt="Demo animation" width="20%"/>
 </p>
 
